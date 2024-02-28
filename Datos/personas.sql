@@ -1,4 +1,4 @@
-Brandon Alan Sosa Salazar
+/*Brandon Alan Sosa Salazar*/
 
 SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
 START TRANSACTION;
